@@ -8,5 +8,7 @@ namespace CNPM
 {
     internal class Teacher
     {
+
+        public string MaNV;
     }
 }
